@@ -156,7 +156,7 @@ Existem diversas outras funcionalidades do Git e do Github, porém tenho certeza
 Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-scm.com/doc), pois qualquer dúvida que apareça pode ser respondida por lá na explicação
 
 ## comandos importantes:
-*git add . (Para adicionar todos os arquivos)
+
 *git push origin master --force (se caso der algum problema quando for dar o push por trocar o main)
 
 **❤**
